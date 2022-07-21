@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/transfer/demo/tree-transfer.md?bff2"],"names":[],"mappings":";AACA;AACA;AACA;AACA","file":"css/20.04dfc8c3.css","sourcesContent":["\n.tree-transfer .ant-transfer-list[data-v-5d68ae1e]:first-child {\n  width: 50%;\n  flex: none;\n}\n"],"sourceRoot":""}
