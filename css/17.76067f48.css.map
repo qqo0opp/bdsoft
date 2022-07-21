@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./docs/pagination/demo/mini.md?590c"],"names":[],"mappings":";AACA;AACA;AACA","file":"css/17.76067f48.css","sourcesContent":["\n#components-pagination-demo-mini .ant-pagination[data-v-5cbda9d9]:not(:last-child) {\n  margin-bottom: 24px;\n}\n"],"sourceRoot":""}
