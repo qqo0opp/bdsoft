@@ -1,0 +1,11 @@
+
+[id^='components-button-demo-'] .ant-btn {
+  margin-right: 8px;
+  margin-bottom: 12px;
+}
+[id^='components-button-demo-'] .ant-btn-group > .ant-btn {
+  margin-right: 0;
+}
+
+
+/*# sourceMappingURL=68.5c816b02.css.map*/

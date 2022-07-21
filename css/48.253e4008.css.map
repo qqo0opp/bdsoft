@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/popconfirm/demo/placement.md?fc1c"],"names":[],"mappings":";AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css/48.253e4008.css","sourcesContent":["\n#components-a-popconfirm-demo-placement .ant-btn[data-v-c64ec56c] {\n  width: 70px;\n  text-align: center;\n  padding: 0;\n  margin-right: 8px;\n  margin-bottom: 8px;\n}\n"],"sourceRoot":""}

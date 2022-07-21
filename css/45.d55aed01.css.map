@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/popover/demo/placement.md?75d3"],"names":[],"mappings":";AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css/45.d55aed01.css","sourcesContent":["\n#components-popover-demo-placement .ant-btn {\n  width: 70px;\n  text-align: center;\n  padding: 0;\n  margin-right: 8px;\n  margin-bottom: 8px;\n}\n"],"sourceRoot":""}

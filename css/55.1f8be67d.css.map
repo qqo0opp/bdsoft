@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/tooltip/demo/placement.md?a064"],"names":[],"mappings":";AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css/55.1f8be67d.css","sourcesContent":["\n#components-a-tooltip-demo-placement .ant-btn[data-v-4c56dcfc] {\n  width: 70px;\n  text-align: center;\n  padding: 0;\n  margin-right: 8px;\n  margin-bottom: 8px;\n}\n"],"sourceRoot":""}

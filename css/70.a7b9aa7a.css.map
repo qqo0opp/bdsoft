@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./vueDocs/introduce.zh-CN.md?170a"],"names":[],"mappings":";AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css/70.a7b9aa7a.css","sourcesContent":["\n.pic-plus > * {\n  display: inline-block !important;\n  vertical-align: middle;\n}\n.pic-plus span {\n  font-size: 30px;\n  color: #aaa;\n  margin: 0 20px;\n}\n"],"sourceRoot":""}
